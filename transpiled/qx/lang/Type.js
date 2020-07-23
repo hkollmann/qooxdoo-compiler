@@ -182,4 +182,4 @@
   qx.lang.Type.$$dbClassInfo = $$dbClassInfo;
 })();
 
-//# sourceMappingURL=Type.js.map?dt=1593511540849
+//# sourceMappingURL=Type.js.map?dt=1595486524379
