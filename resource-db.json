@@ -5621,13 +5621,13 @@
       "qx/test/xmlhttp/sample.xml": {
         "resourcePath": "resourcePath"
       },
+      "qx/test/xmlhttp/send_known_header.php": {
+        "resourcePath": "resourcePath"
+      },
       "qx/test/xmlhttp/time.php": {
         "resourcePath": "resourcePath"
       },
       "qx/test/xmlhttp/xml.php": {
-        "resourcePath": "resourcePath"
-      },
-      "qx/test/xmlhttp/send_known_header.php": {
         "resourcePath": "resourcePath"
       },
       "qx/website/scss/.npmignore": {
@@ -10680,6 +10680,11 @@
         "width": 16,
         "height": 16
       },
+      "qx/icon/Oxygen/16/emotes/face-laugh.png": {
+        "resourcePath": "resourcePath",
+        "width": 16,
+        "height": 16
+      },
       "qx/icon/Oxygen/16/emotes/face-plain.png": {
         "resourcePath": "resourcePath",
         "width": 16,
@@ -10691,11 +10696,6 @@
         "height": 16
       },
       "qx/icon/Oxygen/16/emotes/face-sad.png": {
-        "resourcePath": "resourcePath",
-        "width": 16,
-        "height": 16
-      },
-      "qx/icon/Oxygen/16/emotes/face-laugh.png": {
         "resourcePath": "resourcePath",
         "width": 16,
         "height": 16
@@ -10955,17 +10955,17 @@
         "width": 22,
         "height": 22
       },
+      "qx/icon/Oxygen/22/actions/document-print.png": {
+        "resourcePath": "resourcePath",
+        "width": 22,
+        "height": 22
+      },
       "qx/icon/Oxygen/22/actions/document-properties.png": {
         "resourcePath": "resourcePath",
         "width": 22,
         "height": 22
       },
       "qx/icon/Oxygen/22/actions/document-revert.png": {
-        "resourcePath": "resourcePath",
-        "width": 22,
-        "height": 22
-      },
-      "qx/icon/Oxygen/22/actions/document-print.png": {
         "resourcePath": "resourcePath",
         "width": 22,
         "height": 22
