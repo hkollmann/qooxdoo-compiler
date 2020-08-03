@@ -144,4 +144,4 @@
   qx.event.AcceleratingTimer.$$dbClassInfo = $$dbClassInfo;
 })();
 
-//# sourceMappingURL=AcceleratingTimer.js.map?dt=1595592298729
+//# sourceMappingURL=AcceleratingTimer.js.map?dt=1596469337721
