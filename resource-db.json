@@ -444,6 +444,11 @@
         "height": 32
       }
     },
+    "qxl.versionlabel": {
+      "dummy.txt": {
+        "resourcePath": "resourcePath"
+      }
+    },
     "qxl.apiviewer": {
       "qxl/apiviewer/app.png": {
         "resourcePath": "resourcePath",
@@ -987,11 +992,6 @@
             -396
           ]
         }
-      }
-    },
-    "qxl.versionlabel": {
-      "dummy.txt": {
-        "resourcePath": "resourcePath"
       }
     },
     "qxl.testnode": {
@@ -6131,11 +6131,6 @@
         "width": 5,
         "height": 136
       },
-      "qx/decoration/Classic/shadow/shadow-small-t.png": {
-        "resourcePath": "resourcePath",
-        "width": 5,
-        "height": 5
-      },
       "qx/decoration/Classic/shadow/shadow-small-tl.png": {
         "resourcePath": "resourcePath",
         "width": 5,
@@ -6150,6 +6145,11 @@
         "resourcePath": "resourcePath",
         "width": 114,
         "height": 146
+      },
+      "qx/decoration/Classic/shadow/shadow-small-t.png": {
+        "resourcePath": "resourcePath",
+        "width": 5,
+        "height": 5
       },
       "qx/decoration/Classic/shadow/shadow-t.png": {
         "resourcePath": "resourcePath",
@@ -8645,6 +8645,11 @@
         "width": 128,
         "height": 128
       },
+      "qx/icon/Oxygen/128/actions/appointment-new.png": {
+        "resourcePath": "resourcePath",
+        "width": 128,
+        "height": 128
+      },
       "qx/icon/Oxygen/128/actions/bookmark-new.png": {
         "resourcePath": "resourcePath",
         "width": 128,
@@ -8676,11 +8681,6 @@
         "height": 128
       },
       "qx/icon/Oxygen/128/actions/dialog-ok.png": {
-        "resourcePath": "resourcePath",
-        "width": 128,
-        "height": 128
-      },
-      "qx/icon/Oxygen/128/actions/appointment-new.png": {
         "resourcePath": "resourcePath",
         "width": 128,
         "height": 128
@@ -10925,11 +10925,6 @@
         "width": 22,
         "height": 22
       },
-      "qx/icon/Oxygen/22/actions/dialog-close.png": {
-        "resourcePath": "resourcePath",
-        "width": 22,
-        "height": 22
-      },
       "qx/icon/Oxygen/22/actions/dialog-ok.png": {
         "resourcePath": "resourcePath",
         "width": 22,
@@ -12499,6 +12494,11 @@
         "resourcePath": "resourcePath",
         "width": 32,
         "height": 32
+      },
+      "qx/icon/Oxygen/22/actions/dialog-close.png": {
+        "resourcePath": "resourcePath",
+        "width": 22,
+        "height": 22
       },
       "qx/icon/Oxygen/32/apps/internet-blog.png": {
         "resourcePath": "resourcePath",

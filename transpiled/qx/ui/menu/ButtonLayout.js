@@ -132,4 +132,4 @@
   qx.ui.menu.ButtonLayout.$$dbClassInfo = $$dbClassInfo;
 })();
 
-//# sourceMappingURL=ButtonLayout.js.map?dt=1596469332985
+//# sourceMappingURL=ButtonLayout.js.map?dt=1596526420481
