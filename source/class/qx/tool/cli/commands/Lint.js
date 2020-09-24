@@ -87,13 +87,14 @@ qx.Class.define("qx.tool.cli.commands.Lint", {
       let config;
       config = await qx.tool.cli.Cli.getInstance().getParsedArgs();
       let lintOptions = config.eslintConfig || {};
-      lintOptions.extends = lintOptions.extends || ["@qooxdoo/qx/browser"];
+      lintOptions.extends = lintOptions.extends || [require.resolve("@qooxdoo/eslint-config-qx/browser.js")];
       lintOptions.globals = Object.assign(lintOptions.globals || {}, await this.__addGlobals(config));
       let linter = new CLIEngine({
         cache: this.argv.cache || false,
         baseConfig: lintOptions,
         useEslintrc: this.argv.useEslintrc,
-        fix: this.argv.fix
+        fix: this.argv.fix,
+        resolvePluginsRelativeTo: this.getNodeModuleDir()
       });
       let files = this.argv.files || [];
       if (files.length === 0) {

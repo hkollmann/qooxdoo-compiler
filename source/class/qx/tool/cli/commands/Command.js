@@ -322,7 +322,8 @@ qx.Class.define("qx.tool.cli.commands.Command", {
      * not used
      */
     getNodeModuleDir : function() {
-      return qx.tool.cli.commands.Command.NODE_MODULES_DIR;
+      let filename = require.resolve("@qooxdoo/framework/package.json");
+      return path.dirname(path.dirname(path.dirname(filename)));
     },
 
     /**
